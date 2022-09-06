@@ -1,5 +1,13 @@
-# About
+# Snaggle Backend
+Snaggle is A Requestbin clone that collects, inspects and debugs HTTP requests and webhooks.
+
+Snaggle generates a unique URL that can be used to collects and display webhook messages.
+
 Clone of the basic functionality at [v1.requestbin.net](https://v1.requestbin.net/)
+
+View Snaggle's frontend: [https://github.com/katarinarosiak/snaggl_frontend](https://github.com/katarinarosiak/snaggl_frontend)
+
+Try Snaggle at: [https://trysnaggl.corkboard.dev/](https://trysnaggl.corkboard.dev/)
 
 # Run
 ## Locally
